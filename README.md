@@ -3,9 +3,9 @@ Original content. No copyright materials included. Academic use only. Developed 
 
 ## Disclaimer
 
-This repository was created as an independent academic submission. It contains only original content developed by the author.
+This repository was created as part of an independent academic submission. All content is original and authored by the submitter.
 
-No copyrighted materials from the Oxford AI Programme or its modules are included.
+No copyrighted material from the Oxford AI Programme or its modules is included.
 
-Conceptual insights are drawn from publicly available AI sources and personal academic experience.
+Conceptual insights are informed by publicly available AI resources and personal academic study.
 
